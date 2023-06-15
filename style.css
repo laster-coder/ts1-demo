@@ -1,0 +1,9 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#demo{
+    position: absolute;
+    top:0px;
+    left:0px;
+}
