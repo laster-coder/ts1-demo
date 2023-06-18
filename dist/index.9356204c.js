@@ -12,6 +12,7 @@ var position = [
 div.onmousedown = (e)=>{
     f = true;
 };
+console.log("[ 333 ] >", 333);
 document.onmousemove = (e)=>{
     if (f == true) {
         var deltaX = e.clientX - position[0];
